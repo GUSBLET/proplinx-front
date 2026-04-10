@@ -13,6 +13,7 @@
     "core-js": "^3.8.3",
     "jwt-decode": "^4.0.0",
     "tailwind": "^4.0.0",
+    "tailwind-merge": "^3.5.0",
     "vee-validate": "^4.14.7",
     "vue": "^3.2.13",
     "vue-router": "^4.4.5",
